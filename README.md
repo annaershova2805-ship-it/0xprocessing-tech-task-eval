@@ -12,8 +12,6 @@ production systems is strictly prohibited without the author’s written permiss
 ---
 
 ## Contents  
-- [Test Report](REPORT.md)  
-- [Documentation Review & QA Analysis](REPORT.md)  
 - [Submission Note (Evaluation Only)](SUBMISSION_NOTE.md)  
 - [License](LICENSE)  
 
